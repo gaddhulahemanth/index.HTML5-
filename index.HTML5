@@ -89,8 +89,7 @@
 
 <body>
     <div class="header" id="home">
-        <img src="hemanth.jpg" alt="Gaddhula Hemanth Profile Picture"
-            class="profile-img">
+        <img src="hemanth.jpg" alt="Gaddhula Hemanth Profile Picture" class="profile-img">
         <div class="name">Gaddhula Hemanth</div>
         <div class="title">Tech Enthusiast | Future Engineer | Cyber Warrior</div>
     </div>
