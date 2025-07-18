@@ -23,7 +23,7 @@
             padding: 20px;
         }
 
-        .profile-img {
+        .profile-pic{
             border: 4px solid #00ffff;
             border-radius: 50%;
             width: 150px;
@@ -89,7 +89,7 @@
 
 <body>
     <div class="header" id="home">
-        <img src="hemanth.jpg" alt="Gaddhula Hemanth Profile Picture" class="profile-img">
+        <img src="hemanth.jpg" alt="Gaddhula Hemanth Profile Picture" class="profile-pic">
         <div class="name">Gaddhula Hemanth</div>
         <div class="title">Tech Enthusiast | Future Engineer | Cyber Warrior</div>
     </div>
